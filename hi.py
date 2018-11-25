@@ -1,0 +1,6 @@
+name = input('請問你怎麼稱呼: ')
+print('哈囉', name)
+height = input("請問你的身高? ")
+print('哇~原來你有', height, '公分阿')
+weight = input("那你有多重呢?")
+print('嗯~嗯~', weight, '公斤')
